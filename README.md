@@ -8,6 +8,7 @@ This week is challenge is an on-the-job ticket, which means I'll begin with star
 Here are this week's challenge requirements:
 
 User Story:
+
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -24,6 +25,7 @@ Semantic HTML
 Image alt attributes
 
 Definition of Done:
+
 I was able to change the HTML to a semantic elements
 I was able to restucture the HTML elements to follow a logical structure
 I was able to add alt attributes to the image and icon elements
