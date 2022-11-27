@@ -1,13 +1,13 @@
 # First-Class-Challenge
 My first class challenge
 
-My Task
+My Task:
 
 This week is challenge is an on-the-job ticket, which means I'll begin with starter code that I need to modify. This week's challenge involves a very important aspect of web development: accessibility.
 
 Here are this week's challenge requirements:
 
-User Story
+User Story:
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -23,7 +23,7 @@ Resources:
 Semantic HTML
 Image alt attributes
 
-Definition of Done
+Definition of Done:
 I was able to change the HTML to a semantic elements
 I was able to restucture the HTML elements to follow a logical structure
 I was able to add alt attributes to the image and icon elements
